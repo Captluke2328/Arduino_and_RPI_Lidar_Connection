@@ -12,3 +12,7 @@
 2. Connect RX1 to Pin TXD/SCL (Since we're using Serial1)
 3. 5V to 5V
 4. GND to GND
+
+## Schematic AS Follow
+
+![Lidar_Arduino_Connection](https://user-images.githubusercontent.com/81543946/191774574-f78aa4cb-fb9d-4319-aa53-3290e3ccab29.PNG)
